@@ -10,6 +10,28 @@ This is an app designed for gamers who enjoy League of Legends and would like a 
 # LIST OF TECHNOLOGIES USED
 Django/Python stack with PostgreSQL back-end with a little CSS hosted on Heroku.
 
+## STEPS TO GET RUNNING
+Requirements
+
+Install Python3 - https://realpython.com/installing-python/
+Install Pipenv - https://pypi.org/project/pipenv/
+Install Django - https://docs.djangoproject.com/en/4.1/topics/install/
+Install Heroku - https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
+
+
+Add a PostgreSQL database to project:
+
+In the Heroku CLI type in ‘heroku addons:create heroku-postgresql:hobby-dev’   (no quotes)
+
+Install Dependencies
+
+- pipenv install 
+
+Once all dependencies and services (Python3, Heroku, etc) are installed, enter the virtual environment:
+
+1. pipenv shell
+2. python3 manage.py runserver
+
 # NAVIGATE CHAMPIFY!
 First, you'll want to register by creating a username and password to login. 
 Second, you'll want to add champions to your list by typing in their name along with including an image address of your choice and a bio in your own words of the champion. You can also hit the checkmark for favorite champ if it's one of your faves!
