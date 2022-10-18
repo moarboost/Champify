@@ -1,7 +1,7 @@
 # Champify
 
 # Clicky the links below to check out the app!
-## Github - https://github.com/moarboost/champify
+
 ## Heroku - https://ch4mpify.herokuapp.com
 
 ## Welcome to Champify!! 
