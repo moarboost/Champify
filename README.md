@@ -14,8 +14,11 @@ Django/Python stack with PostgreSQL back-end with a little CSS hosted on Heroku.
 Requirements
 
 Install Python3 - https://realpython.com/installing-python/
+
 Install Pipenv - https://pypi.org/project/pipenv/
+
 Install Django - https://docs.djangoproject.com/en/4.1/topics/install/
+
 Install Heroku - https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
 
 
