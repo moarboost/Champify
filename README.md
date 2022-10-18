@@ -44,3 +44,8 @@ If you'd like to keep track of your gametime you can add the game type along wit
 
 ### User Stories
 People who would use this app are those who enjoy playing League of Legends and want a way to show a way of keeping track of just their favorite champions or all the champions you want to add. You can add an image of your favorite skin along with adding in some game info to track how much time you play each game.
+
+
+### Future Ideas
+Would like to have a database of images on the app itself instead of going outside the app to link a web address for uploading image.
+
