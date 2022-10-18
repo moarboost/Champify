@@ -22,6 +22,7 @@ Install Django - https://docs.djangoproject.com/en/4.1/topics/install/
 Install Heroku - https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
 
 
+
 Add a PostgreSQL database to project:
 
 In the Heroku CLI type in ‘heroku addons:create heroku-postgresql:hobby-dev’   (no quotes)
