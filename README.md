@@ -10,7 +10,7 @@ This is an app designed for gamers who enjoy League of Legends and would like a 
 ### List of Technologies Used
 Django/Python stack with PostgreSQL back-end with a little CSS hosted on Heroku.
 
-### Steps to get Running
+### Steps to Get Running
 Requirements
 
 Install Python3 - https://realpython.com/installing-python/
