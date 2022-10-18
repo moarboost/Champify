@@ -36,11 +36,11 @@ Once all dependencies and services (Python3, Heroku, etc) are installed, enter t
 1. pipenv shell
 2. python3 manage.py runserver
 
-### NAVIGATE CHAMPIFY!
+### Navigate Champify!
 First, you'll want to register by creating a username and password to login. 
 Second, you'll want to add champions to your list by typing in their name along with including an image address of your choice and a bio in your own words of the champion. You can also hit the checkmark for favorite champ if it's one of your faves!
 
 If you'd like to keep track of your gametime you can add the game type along with the duration of each game and it will be listed underneath the image.
 
-### USER STORIES
+### User Stories
 People who would use this app are those who enjoy playing League of Legends and want a way to show a way of keeping track of just their favorite champions or all the champions you want to add. You can add an image of your favorite skin along with adding in some game info to track how much time you play each game.
